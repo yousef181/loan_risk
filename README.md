@@ -1,3 +1,3 @@
-# DEPI - Cairo Metro Data Intelligence (CMDI)
+# DEPI - Financial Risk for Loan Approval
 
 Financial Risk Data Analysis Project Team for Loan Approval
